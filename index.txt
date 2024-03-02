@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Zac___ J__ Ong
+Zac___ J__ Ong
+Hobby developer
 
 Show Contacts
 
 Email
-richard@example.com
+amzcecal@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (206) 693-0467
 
 Birthday
-June 23, 1982
+June 15, 2008
 
 Location
-Sacramento, California, USA
+Seattle, Washington, USA
 
 # navbar
 
@@ -32,14 +32,14 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm an aspiring student from Seattle, dabbling in game development, websites, and other subfields I find interesting. I enjoy solving complex problems, both in math and engineering/programming.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
 
 ## service
 
-What i'm doing
+What I'm doing
 
 alt = design icon
 Web design
