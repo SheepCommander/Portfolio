@@ -9,7 +9,9 @@ Flavor text
 
 [![Video Placeholder 2](https://img.youtube.com/vi/hT2Bw0mRKug/0.jpg)](https://www.youtube.com/watch?v=hT2Bw0mRKug)
 
-<video width="630" height="300" src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://yewtu.be/latest_version?id=9PMdjMiKzSo&itag=22&hmac_key=2661d0b6b522ec0822f822b0dae42981cac863df)"></video>
+![example gif alt text](example-gif.gif)
+
+<img width="630" height="400" alt="your alt text" src="https://bobbyhadz.com/images/blog/vscode-clear-cache/clear-editor-history.gif" />
 
 Text
 
