@@ -8,6 +8,8 @@ Flavor text
 
 [![Placeholder](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FhT2Bw0mRKug)](https://youtu.be/hT2Bw0mRKug)
 
+[![Video Placeholder 2](https://img.youtube.com/vi/2FhT2Bw0mRKug/0.jpg)](https://www.youtube.com/watch?v=2FhT2Bw0mRKug)
+
 Text
 
 ---
